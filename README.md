@@ -1,4 +1,4 @@
-# tittley title
+# don't break
 
 ## Table of Contents
 1. [Description](#Description)
@@ -11,34 +11,34 @@
 
 ## Description
 
-describ yourself
+i know what you're saying
 
 ## Installation
 
-try it
+so please stop complaining
 
 ## Usage
 
-gratefully
+don't break b/c it hurts
 
 ## Contributing
 
-none
+oh!
 
 ## Tests
 
-acceptance
+oh!
 
 ## License
-Apache license 2.0
+Open Software License 3.0
 
 Please refer to link below for further licensing information.
 
-https://www.apache.org/licenses/LICENSE-2.0
+https://opensource.org/licenses/OSL-3.0
 
-![License Badge](https://img.shields.io/badge/license-Apache license 2.0-green.svg)
+![License Badge](https://img.shields.io/badge/license-Open%20Software%20License%203.0-green.svg)
 
 ## Questions
 
-Reach me with additional questions at <https://github.com/josh>. 
-You can email me at <josh@josh.com>.
+Reach me with additional questions at <https://github.com/silent>. 
+You can email me at <do@nt.com>.
