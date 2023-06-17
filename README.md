@@ -1,4 +1,4 @@
-# asdfasd
+# tittley title
 
 ## Table of Contents
 1. [Description](#Description)
@@ -11,30 +11,34 @@
 
 ## Description
 
-asdfasdf
+describ yourself
 
 ## Installation
 
-asdfasdf
+try it
 
 ## Usage
 
-asdfasdf
+gratefully
 
 ## Contributing
 
-asdfasdf
+none
 
 ## Tests
 
-asdfasdf
+acceptance
 
 ## License
+Apache license 2.0
 
-MIT
-![License Badge](https://img.shields.io/badge/license-MIT-green.svg)
+Please refer to link below for further licensing information.
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+![License Badge](https://img.shields.io/badge/license-Apache license 2.0-green.svg)
 
 ## Questions
 
-Reach me with additional questions at <https://github.com/asdfasdf>. 
-You can email me at <asdfasdf>.
+Reach me with additional questions at <https://github.com/josh>. 
+You can email me at <josh@josh.com>.
