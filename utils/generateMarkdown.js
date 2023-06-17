@@ -4,7 +4,8 @@ function renderLicenseBadge(license) { //function to write the badge text
   if (license === "") {
     return "";
   } else {
-    const licenseBadge = `![License Badge](https://img.shields.io/badge/license-${license}-green.svg)`; //writes the text and alt text for the image
+    const encodedLicense = encodeURIComponent(license);
+    const licenseBadge = `![License Badge](https://img.shields.io/badge/license-${encodedLicense}-green.svg)`; //writes the text and alt text for the image
     return licenseBadge; //passes the text on formatted for template literal
   }
 }
