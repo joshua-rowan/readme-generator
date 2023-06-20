@@ -4,7 +4,7 @@ function renderLicenseBadge(license) { //function to write the badge text
   if (license === "") {
     return "";
   } else {
-    const encodedLicense = encodeURIComponent(license);
+    const encodedLicense = encodeURIComponent(license);  //endcodeURIComponent keeps the links for the badges workling even though the licenses have spaces in their names
     const licenseBadge = `![License Badge](https://img.shields.io/badge/license-${encodedLicense}-green.svg)`; //writes the text and alt text for the image
     return licenseBadge; //passes the text on formatted for template literal
   }
