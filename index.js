@@ -55,7 +55,9 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) { //function pulls in parameters README.md and markdown
-    fs.writeFile(fileName, data, (err) => {  //writeFile creates the README, catches errors, and confirms file created
+    const userFolder = 'user-files';
+    const userFile = path.join(userFolder, fileName);
+    fs.writeFile(userFile, data, (err) => {  //writeFile creates the README, catches errors, and confirms file created
         if (err) {
             console.error(err);
         } else {
