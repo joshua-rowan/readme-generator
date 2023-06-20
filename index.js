@@ -56,8 +56,8 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) { //function pulls in parameters README.md and markdown
-    const userFolder = 'user-files';
-    const userFile = path.join(userFolder, fileName);
+    const userFolder = 'user-files'; //the folder where I want user ReadMe files to be stored so that my GitHub ReadMe is unaffected
+    const userFile = path.join(userFolder, fileName); //creates path for file to be directed to the user-files directory
     fs.writeFile(userFile, data, (err) => {  //writeFile creates the README, catches errors, and confirms file created
         if (err) {
             console.error(err);

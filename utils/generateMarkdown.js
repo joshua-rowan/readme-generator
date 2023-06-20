@@ -35,6 +35,7 @@ function renderLicenseSection(license) {
   if (license === "") {
     return "";
   } else {
+    //define above functions so that I can call them
     const licenseBadge = renderLicenseBadge(license);
     const licenseLink = renderLicenseLink(license);
 
@@ -52,7 +53,6 @@ ${licenseBadge}`
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   const licenseBadge = renderLicenseBadge(data.license);
-  const licenseLink = renderLicenseLink(data.license);
 
   return `# ${data.title}     ${licenseBadge}
 
