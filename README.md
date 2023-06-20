@@ -13,6 +13,9 @@
 
 This application will dynamically build a README.md file based off of a user's input.
 
+## Video Example
+https://watch.screencastify.com/v/DsopBErPIW2jgY1Mnqad 
+
 ## Installation
 
 Copy these files to your machine to use this project for your benefit.
