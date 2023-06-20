@@ -1,4 +1,4 @@
-# read this
+# do it ![License Badge](https://img.shields.io/badge/license-Open%20Software%20License%203.0-green.svg)
 
 ## Table of Contents
 1. [Description](#Description)
@@ -11,34 +11,34 @@
 
 ## Description
 
-creates readme
+do it
 
 ## Installation
 
-find this and run
+do it 
 
 ## Usage
 
-keyboard and hop
+do it
 
 ## Contributing
 
-speak and be heard
+do it
 
 ## Tests
 
-one at a time
+do it
 
 ## License
-Mozilla Public License 2.0
+Open Software License 3.0
 
 Please refer to link below for further licensing information.
 
-https://www.mozilla.org/en-US/MPL/2.0/
+https://opensource.org/licenses/OSL-3.0
 
-![License Badge](https://img.shields.io/badge/license-Mozilla%20Public%20License%202.0-green.svg)
+![License Badge](https://img.shields.io/badge/license-Open%20Software%20License%203.0-green.svg)
 
 ## Questions
 
-Reach me with additional questions at <https://github.com/josh>. 
-You can email me at <josh@josh.com>.
+Reach me with additional questions at <https://github.com/do it>. 
+You can email me at <do@it.com>.
