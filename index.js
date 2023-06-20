@@ -2,6 +2,7 @@
 const inquirer = require('inquirer'); //inquirer to prompt questions and collect answers
 const fs = require('fs'); //fs to write the README.md
 const generateMarkdown = require("./utils/generateMarkdown") //use this file in conjunction to generate the markdown text with the answers provided by user
+const path = require('path'); //path to create a file path for new readme files to go to user-files folder
 
 // TODO: Create an array of questions for user input
 const questions = [

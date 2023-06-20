@@ -1,4 +1,4 @@
-# do it ![License Badge](https://img.shields.io/badge/license-Open%20Software%20License%203.0-green.svg)
+# User     ![License Badge](https://img.shields.io/badge/license-Open%20Software%20License%203.0-green.svg)
 
 ## Table of Contents
 1. [Description](#Description)
@@ -11,23 +11,23 @@
 
 ## Description
 
-do it
+Example
 
 ## Installation
 
-do it 
+copy and run
 
 ## Usage
 
-do it
+answer in console
 
 ## Contributing
 
-do it
+Speak at ease
 
 ## Tests
 
-do it
+try it out
 
 ## License
 Open Software License 3.0
@@ -40,5 +40,5 @@ https://opensource.org/licenses/OSL-3.0
 
 ## Questions
 
-Reach me with additional questions at <https://github.com/do it>. 
-You can email me at <do@it.com>.
+Reach me with additional questions at <https://github.com/josh>. 
+You can email me at <josh@josh.com>.
